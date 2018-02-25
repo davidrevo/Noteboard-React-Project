@@ -13,3 +13,8 @@ Release Notes:
 - 2018/02/25 - when editing, keep notice content on textarea
 - 2018/02/25 - pre-load ipsum note content by fetching baconipsum API
 - 2018/02/25 - rewrite Noteboard in modular project
+------------------------------------------------
+Instructions to run:
+
+1. cd to directory "bulletin-board"
+2. npm start
